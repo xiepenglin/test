@@ -9,4 +9,4 @@ i am tony
 
 modify 1
 modify 2
-creating a new branch is quick & simple.
+creating a new branch is quick and simple.
